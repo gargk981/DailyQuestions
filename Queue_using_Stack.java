@@ -1,5 +1,5 @@
 import java.util.*;
- class QueueusingtwoStack {
+ class Queue_using_Stack {
 static Node top;
 static Node top1;
  static class Node
